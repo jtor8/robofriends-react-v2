@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jtor8/robofriends-react-v2/static/css/main.cfa21b68.css",
+    "main.js": "/jtor8/robofriends-react-v2/static/js/main.12fe3d0d.js",
+    "static/js/453.5599786d.chunk.js": "/jtor8/robofriends-react-v2/static/js/453.5599786d.chunk.js",
+    "index.html": "/jtor8/robofriends-react-v2/index.html",
+    "main.cfa21b68.css.map": "/jtor8/robofriends-react-v2/static/css/main.cfa21b68.css.map",
+    "main.12fe3d0d.js.map": "/jtor8/robofriends-react-v2/static/js/main.12fe3d0d.js.map",
+    "453.5599786d.chunk.js.map": "/jtor8/robofriends-react-v2/static/js/453.5599786d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfa21b68.css",
+    "static/js/main.12fe3d0d.js"
+  ]
+}
